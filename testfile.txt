@@ -1,3 +1,4 @@
 NEW FILE!
 
 Am modificat continutul acestui fisier fara a face alt commit.Before merge with main
+line from branch main
