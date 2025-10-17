@@ -1,1 +1,2 @@
 Non fast-forward merge branch
+New line
