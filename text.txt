@@ -1,3 +1,4 @@
 New text file (modified)
 Hello World!
 new line
+New line
