@@ -6,3 +6,4 @@ line from branch main
 =======
 Git merge in 3 directions
 >>>>>>> tridirb
+Line from testbranch
