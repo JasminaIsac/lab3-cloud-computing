@@ -1,1 +1,2 @@
 Text file for squash branch
+New Line
