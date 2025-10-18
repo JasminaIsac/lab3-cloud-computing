@@ -1,3 +1,4 @@
 Text file for squash branch
 New Line
 Third line
+4 line
