@@ -6,4 +6,4 @@ Testbranch: new line
 
 new line for sourcetree
 
-new line
+merged line, conflict solved
