@@ -6,3 +6,4 @@ Acesta este rândul doi
 
 Modificare
 
+Commit from GitHub
