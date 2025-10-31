@@ -3,3 +3,5 @@ NEW FILE!
 Am modificat continutul acestui fisier fara a face alt commit.Before merge with main
 "line from branch main" and "Git merge in 3 directions"
 Testbranch: new line
+
+new line for sourcetree
