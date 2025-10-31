@@ -5,3 +5,5 @@ Am modificat continutul acestui fisier fara a face alt commit.Before merge with 
 Testbranch: new line
 
 new line for sourcetree
+
+new line
